@@ -2,7 +2,7 @@
 **Platforms**: Desktop  
 **Technologies**: Unreal Engine, Blueprint  
 **Languages**: English  
-**Audience**: Temple Run fans
+**Audience**: Temple Run fans  
 **Genre**: Platformer  
 **Mood**: Interest in platformers  
 **Emotions**: exciting with flat lines and cubes  
