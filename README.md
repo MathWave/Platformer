@@ -1,4 +1,4 @@
-### Concept:
+### Concept
 
 **Platforms**: Desktop  
 **Technologies**: Unreal Engine, Blueprint  
@@ -40,3 +40,20 @@ People who played games like Temple Run, Subway Serfers and Fall Guys and enjoye
 - __GREEN__ bonus gives player an ability to go through the walls for 15 seconds
 - __BLUE__ bonus decreases enemies speed in two times for 15 seconds
 
+### Interface
+
+Speed bonus timer in the left top corner of screen  
+Wall bonus time in the right top corner of screen  
+
+### Gameplay map
+
+No gameplay map
+
+### Level design
+
+Level generates randomly
+
+### Artificial intelligence   
+
+Cube enemies go through the platform to the random points  
+Line enemies go from one side of platform to another
